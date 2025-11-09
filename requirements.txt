@@ -1,0 +1,13 @@
+streamlit
+langchain
+chromadb
+sentence-transformers
+pdfplumber
+pypdf2
+openai
+transformers
+accelerate
+sentencepiece
+faiss-cpu
+
+fpdf
